@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Reading
+- Youtube
+  - 2 minute papers
+  - Sebastian Lague
