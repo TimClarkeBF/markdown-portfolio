@@ -1,0 +1,4 @@
+- Reading
+- Youtube
+  - 2 minute papers
+  - Sebastian Lague
